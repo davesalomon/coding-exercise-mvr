@@ -1,0 +1,748 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a basic default layout without a title 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="makeStyles-container-1"
+      >
+        <div
+          class="makeStyles-root-3"
+        >
+          <div
+            class="makeStyles-container-4"
+          >
+            <div
+              class="makeStyles-productTile-13"
+            >
+              <div
+                class="makeStyles-productImage-12"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-10 MuiTypography-h6"
+                >
+                  Product 1
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £1.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-11 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-20"
+            >
+              <div
+                class="makeStyles-productImage-19"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-17 MuiTypography-h6"
+                >
+                  Product 2
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £2.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-18 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-25"
+            >
+              <div
+                class="makeStyles-productImage-24"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-22 MuiTypography-h6"
+                >
+                  Product 3
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £3.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-23 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-30"
+            >
+              <div
+                class="makeStyles-productImage-29"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-27 MuiTypography-h6"
+                >
+                  Product 4
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £4.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-28 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-35"
+            >
+              <div
+                class="makeStyles-productImage-34"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-32 MuiTypography-h6"
+                >
+                  Product 5
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £5.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-33 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-40"
+            >
+              <div
+                class="makeStyles-productImage-39"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-37 MuiTypography-h6"
+                >
+                  Product 6
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £6.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-38 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-45"
+            >
+              <div
+                class="makeStyles-productImage-44"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-42 MuiTypography-h6"
+                >
+                  Product 7
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £7.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-43 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-50"
+            >
+              <div
+                class="makeStyles-productImage-49"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-47 MuiTypography-h6"
+                >
+                  Product 8
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £8.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-48 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-55"
+            >
+              <div
+                class="makeStyles-productImage-54"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-52 MuiTypography-h6"
+                >
+                  Product 9
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £9.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-53 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-60"
+            >
+              <div
+                class="makeStyles-productImage-59"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-57 MuiTypography-h6"
+                >
+                  Product 10
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £10.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-58 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-65"
+            >
+              <div
+                class="makeStyles-productImage-64"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-62 MuiTypography-h6"
+                >
+                  Product 11
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £11.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-63 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+            <div
+              class="makeStyles-productTile-70"
+            >
+              <div
+                class="makeStyles-productImage-69"
+              />
+              <div>
+                <h6
+                  class="MuiTypography-root makeStyles-productName-67 MuiTypography-h6"
+                >
+                  Product 12
+                </h6>
+                <div
+                  class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+                >
+                  <span
+                    class="MuiChip-label MuiChip-labelSmall"
+                  >
+                    £12.00
+                  </span>
+                </div>
+              </div>
+              <p
+                class="MuiTypography-root makeStyles-productDescription-68 MuiTypography-body1"
+              />
+              &lt;Link /&gt;
+            </div>
+          </div>
+          <div
+            class="makeStyles-leftArrow-7 makeStyles-arrow-6 makeStyles-disabled-5"
+          />
+          <div
+            class="makeStyles-rightArrow-8 makeStyles-arrow-6"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="makeStyles-container-1"
+    >
+      <div
+        class="makeStyles-root-3"
+      >
+        <div
+          class="makeStyles-container-4"
+        >
+          <div
+            class="makeStyles-productTile-13"
+          >
+            <div
+              class="makeStyles-productImage-12"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-10 MuiTypography-h6"
+              >
+                Product 1
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £1.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-11 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-20"
+          >
+            <div
+              class="makeStyles-productImage-19"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-17 MuiTypography-h6"
+              >
+                Product 2
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £2.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-18 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-25"
+          >
+            <div
+              class="makeStyles-productImage-24"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-22 MuiTypography-h6"
+              >
+                Product 3
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £3.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-23 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-30"
+          >
+            <div
+              class="makeStyles-productImage-29"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-27 MuiTypography-h6"
+              >
+                Product 4
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £4.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-28 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-35"
+          >
+            <div
+              class="makeStyles-productImage-34"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-32 MuiTypography-h6"
+              >
+                Product 5
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £5.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-33 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-40"
+          >
+            <div
+              class="makeStyles-productImage-39"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-37 MuiTypography-h6"
+              >
+                Product 6
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £6.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-38 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-45"
+          >
+            <div
+              class="makeStyles-productImage-44"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-42 MuiTypography-h6"
+              >
+                Product 7
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £7.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-43 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-50"
+          >
+            <div
+              class="makeStyles-productImage-49"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-47 MuiTypography-h6"
+              >
+                Product 8
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £8.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-48 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-55"
+          >
+            <div
+              class="makeStyles-productImage-54"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-52 MuiTypography-h6"
+              >
+                Product 9
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £9.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-53 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-60"
+          >
+            <div
+              class="makeStyles-productImage-59"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-57 MuiTypography-h6"
+              >
+                Product 10
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £10.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-58 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-65"
+          >
+            <div
+              class="makeStyles-productImage-64"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-62 MuiTypography-h6"
+              >
+                Product 11
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £11.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-63 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+          <div
+            class="makeStyles-productTile-70"
+          >
+            <div
+              class="makeStyles-productImage-69"
+            />
+            <div>
+              <h6
+                class="MuiTypography-root makeStyles-productName-67 MuiTypography-h6"
+              >
+                Product 12
+              </h6>
+              <div
+                class="MuiChip-root makeStyles-chip-14 MuiChip-outlined MuiChip-sizeSmall"
+              >
+                <span
+                  class="MuiChip-label MuiChip-labelSmall"
+                >
+                  £12.00
+                </span>
+              </div>
+            </div>
+            <p
+              class="MuiTypography-root makeStyles-productDescription-68 MuiTypography-body1"
+            />
+            &lt;Link /&gt;
+          </div>
+        </div>
+        <div
+          class="makeStyles-leftArrow-7 makeStyles-arrow-6 makeStyles-disabled-5"
+        />
+        <div
+          class="makeStyles-rightArrow-8 makeStyles-arrow-6"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
