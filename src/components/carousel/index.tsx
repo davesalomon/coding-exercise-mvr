@@ -93,6 +93,7 @@ const Carousel = (props: Props) => {
       left: pos,
       behavior: "smooth",
     });
+
     setCarouselScrollPos(pos);
   };
 
@@ -140,7 +141,7 @@ const Carousel = (props: Props) => {
           [classes.disabled]:
             !!containerRef.current &&
             carouselScrollPos +
-              containerRef.current?.getBoundingClientRect().width ===
+              containerRef.current?.getBoundingClientRect().width >=
               containerRef.current.scrollWidth,
         })}
         onClick={(e: any) => {
