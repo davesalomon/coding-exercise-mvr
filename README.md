@@ -40,7 +40,7 @@ available fields, I realised that it should be a bit flashier.
 I was treating the exercise as 'build a website' -- I then transitioned to thinking of it as an app, rather than a site.
 
 I spent a while trying out lots of different carousels - I wasn't happy with any, so built one. It could be better, but
-I'm actually pretty happy with it, given how long I spent on it :)
+I'm actually pretty happy with it, given how long I spent on it :). (Edit: It looks awful on Windows.)
 
 I'd probably have 5 tiles on the desktop carousel; I've done 4 just to show the carousel-ness of it.
 
